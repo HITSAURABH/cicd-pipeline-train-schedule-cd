@@ -1,13 +1,13 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Hogwarts Expresses",
 			"stops": [
 				{
 					"station": "Gryfinders",
 					"status": "ON-TIME",
-					"arrival": "02:00pm",
-					"departure": "02:10pm"
+					"arrival": "02:15pm",
+					"departure": "02:30pm"
 				},
 				{
 					"station": "Pine",
